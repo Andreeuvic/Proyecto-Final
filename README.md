@@ -1,2 +1,1 @@
-# Proyecto-Final
-# Programción Orientadad a Objetos
+Proyecto-Final Programción Orientada a Objetos
